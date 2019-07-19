@@ -1,0 +1,40 @@
+[   INFO] [2019-07-19 21:03:56,937] [4581991872] [HTMLReport.py(103)] - The number of concurrent threads is expected to be 1
+[   INFO] [2019-07-19 21:03:56,938] [123145560424448] [Result.py(48)] - Start Test: test_amazon (testSuites.Test_Amazon.TestAmazon)
+[   INFO] [2019-07-19 21:03:56,940] [123145560424448] [base_page.py(33)] - load url：https://www.amazon.cn/
+[  DEBUG] [2019-07-19 21:03:57,961] [123145560424448] [connectionpool.py(206)] - Starting new HTTP connection (1): 127.0.0.1:64903
+[  DEBUG] [2019-07-19 21:03:58,831] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session HTTP/1.1" 200 690
+[   INFO] [2019-07-19 21:03:58,831] [123145560424448] [base_page.py(35)] - Open chrome
+[  DEBUG] [2019-07-19 21:04:00,972] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/url HTTP/1.1" 200 14
+[  DEBUG] [2019-07-19 21:04:01,203] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/window/maximize HTTP/1.1" 200 50
+[  DEBUG] [2019-07-19 21:04:01,204] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/timeouts HTTP/1.1" 200 14
+[   INFO] [2019-07-19 21:04:01,204] [123145560424448] [base_page.py(39)] - sleep 10 seconds
+[  DEBUG] [2019-07-19 21:04:01,219] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element HTTP/1.1" 200 88
+[  DEBUG] [2019-07-19 21:04:01,245] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/execute/sync HTTP/1.1" 200 14
+[  DEBUG] [2019-07-19 21:04:01,257] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "GET /session/621cb7f72bac81b26c2575170ffe5a8d/element/bb5b293a-6508-496d-99e3-08ac53130d28/enabled HTTP/1.1" 200 14
+[  DEBUG] [2019-07-19 21:04:01,264] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element HTTP/1.1" 200 88
+[  DEBUG] [2019-07-19 21:04:03,325] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element/bb5b293a-6508-496d-99e3-08ac53130d28/value HTTP/1.1" 200 14
+[  DEBUG] [2019-07-19 21:04:03,394] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element HTTP/1.1" 200 88
+[  DEBUG] [2019-07-19 21:04:23,922] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element/52025615-db97-497d-8643-ae28d774665b/click HTTP/1.1" 200 14
+[  DEBUG] [2019-07-19 21:04:24,153] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element HTTP/1.1" 200 88
+[  DEBUG] [2019-07-19 21:04:25,012] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element/75a20ebe-135a-4ae3-8fe4-1e29b190aa7e/click HTTP/1.1" 200 14
+[  DEBUG] [2019-07-19 21:04:25,015] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "GET /session/621cb7f72bac81b26c2575170ffe5a8d/window/handles HTTP/1.1" 200 99
+[  DEBUG] [2019-07-19 21:04:25,018] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/window HTTP/1.1" 200 14
+[  DEBUG] [2019-07-19 21:04:25,120] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element HTTP/1.1" 200 88
+[  DEBUG] [2019-07-19 21:04:26,647] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element/f734961c-b03d-4858-b488-407b58c2663a/click HTTP/1.1" 200 14
+[  DEBUG] [2019-07-19 21:04:26,677] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "POST /session/621cb7f72bac81b26c2575170ffe5a8d/element HTTP/1.1" 200 88
+[  DEBUG] [2019-07-19 21:04:26,743] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "GET /session/621cb7f72bac81b26c2575170ffe5a8d/element/d430eb52-5a75-4f4e-be58-e53b30b872e1/text HTTP/1.1" 200 22
+[  DEBUG] [2019-07-19 21:04:26,795] [123145560424448] [connectionpool.py(396)] - http://127.0.0.1:64903 "DELETE /session/621cb7f72bac81b26c2575170ffe5a8d HTTP/1.1" 200 14
+[   INFO] [2019-07-19 21:04:26,869] [123145560424448] [Result.py(106)] - Pass Test: test_amazon (testSuites.Test_Amazon.TestAmazon)
+[   INFO] [2019-07-19 21:04:26,869] [123145560424448] [Result.py(59)] - Stop Test: test_amazon (testSuites.Test_Amazon.TestAmazon)
+[   INFO] [2019-07-19 21:04:26,870] [123145560424448] [Result.py(61)] - Duration: 0.049986
+[   INFO] [2019-07-19 21:04:26,870] [4581991872] [HTMLReport.py(130)] - 
+Pass	test_amazon (testSuites.Test_Amazon.TestAmazon)
+
+[   INFO] [2019-07-19 21:04:26,871] [4581991872] [HTMLReport.py(151)] - 
+EOT！
+Ran 1 tests in 0:00:29.933117
+
+PASS：1
+Failures：0
+Skipped：0
+Errors：0

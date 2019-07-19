@@ -1,0 +1,6 @@
+2019-07-19 21:00:05,707 - selenium - INFO - load url：https://www.amazon.cn/
+2019-07-19 21:00:07,614 - selenium - INFO - Open chrome
+2019-07-19 21:00:14,600 - selenium - INFO - sleep 10 seconds
+2019-07-19 21:00:41,498 - selenium - INFO - load url：https://www.amazon.cn/
+2019-07-19 21:00:43,422 - selenium - INFO - Open chrome
+2019-07-19 21:00:57,707 - selenium - INFO - sleep 10 seconds
